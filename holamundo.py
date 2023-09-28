@@ -8,10 +8,6 @@ nombre = "Daniel"
 edad = 21
 print(f"Me llamo {nombre} y tengo {edad} años.")
 
-# Imprime una lista de números
-numeros = [1, 2, 3, 4, 5]
-print("Números:", numeros)
-
 # Imprime un bucle for
 print("Contando hasta 5:")
 for i in range(1, 6):
